@@ -1,6 +1,7 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
+    <a-button type="primary">註冊</a-button>
   </div>
 </template>
 
